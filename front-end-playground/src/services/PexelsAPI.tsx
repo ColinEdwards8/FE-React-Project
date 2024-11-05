@@ -8,7 +8,7 @@ import { query } from "express"
 // client.photos.search({ query, per_page: 1 }).then(photos => {...photos});
 
 
-const API_KEY = '563492ad6f91700001000001acf243db21de45b08beaace22c359e03'
+const API_KEY = ''
 
 const gallery = document.querySelector('.gallery')
 const searchInput = document.querySelector('.search-input')
