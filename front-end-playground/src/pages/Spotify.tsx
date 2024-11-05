@@ -3,8 +3,8 @@ import { Container, InputGroup, FormControl, Button, Row, Card } from 'react-boo
 import { useState, useEffect } from 'react';
 // import { CLIENT_ID, CLIENT_SECRET } from '../Keys/keys'
 
-const CLIENT_ID = '04b4b570476e4bc28a39c65a3f88503a';
-const CLIENT_SECRET = '35764095adf542e8adb8e22afa567778';
+const CLIENT_ID = '';
+const CLIENT_SECRET = '';
 
 
 const SpotifySearch = () => {
