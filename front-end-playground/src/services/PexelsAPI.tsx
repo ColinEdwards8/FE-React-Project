@@ -2,7 +2,7 @@
 
 import { query } from "express"
 
-// const client = createClient('563492ad6f91700001000001acf243db21de45b08beaace22c359e03');
+// const client = createClient('');
 // const query = 'Nature';
 
 // client.photos.search({ query, per_page: 1 }).then(photos => {...photos});
